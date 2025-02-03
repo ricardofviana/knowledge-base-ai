@@ -46,7 +46,9 @@ PROJECT_ROOT=/path/to/project
 
 ## Usage
 
-[Usage instructions to be added]
+```bash 
+python -u URL
+```
 
 ## Project Structure
 
@@ -59,4 +61,10 @@ knowledge-base-ai/
 ├── tests/
 │   └── test_ai_agent.py     # Unit tests
 ├── cache/                   # Cache directory for processed articles
+└── docs/
+    └── project_roadmap.md   # Project documentation
 ```
+
+## Development Roadmap
+
+See [Project Roadmap](docs/project_roadmap.md) for detailed development phases.
