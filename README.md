@@ -46,7 +46,9 @@ PROJECT_ROOT=/path/to/project
 
 ## Usage
 
-[Usage instructions to be added]
+```bash 
+python -u URL
+```
 
 ## Project Structure
 
