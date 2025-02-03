@@ -8,7 +8,7 @@ load_dotenv()
 
 # Selected variables from your current config:
 NOTION_API_KEY = os.getenv("NOTION_API_KEY")
-DATABASE_ID = "18e98b0b4a198150b1a6f0cba89cee77"  # Ideally, move to .env later
+DATABASE_ID =  os.getenv("DATABASE_ID")
 
 # For creating pages, the endpoint is different from the BASE_URL used for databases.
 CREATE_PAGE_URL = "https://api.notion.com/v1/pages"
