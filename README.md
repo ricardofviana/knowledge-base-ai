@@ -61,10 +61,4 @@ knowledge-base-ai/
 ├── tests/
 │   └── test_ai_agent.py     # Unit tests
 ├── cache/                   # Cache directory for processed articles
-└── docs/
-    └── project_roadmap.md   # Project documentation
 ```
-
-## Development Roadmap
-
-See [Project Roadmap](docs/project_roadmap.md) for detailed development phases.
