@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# Environment variables
+.env
+
+# Project specific
+cache/*
+!cache/.gitkeep
+
+# Tests
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
